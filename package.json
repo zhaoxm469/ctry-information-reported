@@ -1,6 +1,6 @@
 {
   "name": "ctry-information-reported",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^14.14.35"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
   }
 }
